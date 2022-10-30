@@ -10,6 +10,7 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 - Automatic Seat Belt
 - 20% Fast Processing
 - Multi-Language Support
+- Automatic Update
   
 ## Demo
 ![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/1.png?raw=true)
