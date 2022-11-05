@@ -10,6 +10,7 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 - Automatic Seat Belt
 - 20% Fast Processing
 - Multi-Language Support
+- Screen Resolution Support
 - Automatic Update
   
 ## Demo
