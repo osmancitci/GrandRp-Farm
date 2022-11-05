@@ -10,6 +10,7 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 - Automatic Seat Belt
 - 20% Fast Processing
 - Multi-Language Support
+- Screen Resolution Support
 - Automatic Update
   
 ## Demo
@@ -22,7 +23,7 @@ Click on the Jobs You Want to Use. Jobs Will Turn Green. Press "1" Key to Start 
 It Is Used To Automatically Get A Job In The Taxi Profession. It will be enough to press the "Mouse3" button for its use.
 
   
-## Sık Sorulan Sorular
+## Frequently asked Questions
 
 #### The Program Doesn't Work What Should I Do?
 
