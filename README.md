@@ -8,6 +8,7 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 - Automating In-Game Jobs
 - Automatic Captcha Pass
 - Automatic Seat Belt
+- Afk Mode
 - 20% Fast Processing
 - Multi-Language Support (Turkish - English - German)
 - Screen Resolution Support (1920x1080 - 1680x1050 - 1600x1024 - 1600x900 - 1440x900 - 1366x768)
