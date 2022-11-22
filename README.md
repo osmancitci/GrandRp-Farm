@@ -52,4 +52,4 @@ You can run it by pressing the "1" key to start the Mine And Fish.
 
 #### How Taxi Works
 
-When You Press "Mouse3" Key, Customer Will Get It Automatically.
+When You Press "Mouse3" Key, Customer Will Get It Automatically..
