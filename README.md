@@ -1,5 +1,5 @@
 
-# GrandRP Auto Farm Bot
+# GrandRP Auto Farm Bot 2.1
 
 The main purpose of the program is to do the Jobs directly in the game quickly.
 
@@ -52,4 +52,4 @@ You can run it by pressing the "1" key to start the Mine And Fish.
 
 #### How Taxi Works
 
-When You Press "Mouse3" Key, Customer Will Get It Automatically..
+When You Press "Middle" Key, Customer Will Get It Automatically..
