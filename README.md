@@ -15,8 +15,8 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 - Automatic Update
   
 ## Demo
-![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/1.png?raw=true)
-![2](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/2.png?raw=true)
+![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/EN1.png?raw=true)
+![2](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/EN2.png?raw=true)
 
 ## Starting
 
