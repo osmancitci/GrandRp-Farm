@@ -25,7 +25,7 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 ## Starting
 
 Click on the Jobs You Want to Use. Jobs Will Turn Green. Press "1" Key to Start the Bot. When You Click On Jobs Again To Stop The Job It Will Turn Red. Or you can reset it by pressing the "END" Key.
-It Is Used To Automatically Get A Job In The Taxi Profession. It will be enough to press the "Mouse3" button for its use.
+It Is Used To Automatically Get A Job In The Taxi Profession. It will be enough to press the "Middle" button for its use.
 
   
 ## Frequently asked Questions
