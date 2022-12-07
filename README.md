@@ -1,7 +1,7 @@
 # Multi-Language
-[![tr](https://img.shields.io/badge/Lang-TR-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
-[![de](https://img.shields.io/badge/Lang-DE-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
-[![en](https://img.shields.io/badge/Lang-EN-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
+[![tr](https://img.shields.io/badge/Language-Turkish-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
+[![de](https://img.shields.io/badge/Language-German-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
+[![en](https://img.shields.io/badge/Language-English-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
 
 # GrandRP Auto Farm Bot 2.1
 
