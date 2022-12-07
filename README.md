@@ -1,3 +1,7 @@
+# Multi-Language
+[![tr](https://img.shields.io/badge/Language-Turkish-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
+[![de](https://img.shields.io/badge/Language-German-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
+[![en](https://img.shields.io/badge/Language-English-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
 
 # GrandRP Auto Farm Bot 2.1
 
@@ -15,13 +19,13 @@ The main purpose of the program is to do the Jobs directly in the game quickly.
 - Automatic Update
   
 ## Demo
-![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/1.png?raw=true)
-![2](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/2.png?raw=true)
+![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/EN1.png?raw=true)
+![2](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/EN2.png?raw=true)
 
 ## Starting
 
 Click on the Jobs You Want to Use. Jobs Will Turn Green. Press "1" Key to Start the Bot. When You Click On Jobs Again To Stop The Job It Will Turn Red. Or you can reset it by pressing the "END" Key.
-It Is Used To Automatically Get A Job In The Taxi Profession. It will be enough to press the "Mouse3" button for its use.
+It Is Used To Automatically Get A Job In The Taxi Profession. It will be enough to press the "Middle" button for its use.
 
   
 ## Frequently asked Questions
