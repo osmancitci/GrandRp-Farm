@@ -21,7 +21,7 @@ The main purpose of the program is to quickly make Jobs directly in the game.
 
 ## Demo
 
-![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/EN1.png?raw=true)![2](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/EN2.png?raw=true)
+![1](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/DE1.png?raw=true)![2](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/DE2.png?raw=true)
 
 ## Anfang
 
