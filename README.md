@@ -3,7 +3,7 @@
 [![de](https://img.shields.io/badge/Language-German-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
 [![en](https://img.shields.io/badge/Language-English-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
 
-# GrandRP Auto Farm Bot 2.1
+# GrandRP Auto Farm Bot 2.2
 
 The main purpose of the program is to do the Jobs directly in the game quickly.
 
