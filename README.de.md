@@ -1,3 +1,9 @@
+# Mehrsprachig
+[![tr](https://img.shields.io/badge/Sprache-Türkisch-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
+[![de](https://img.shields.io/badge/Sprache-Deutsch-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
+[![en](https://img.shields.io/badge/Sprache-Englisch-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
+
+
 # GrandRP Auto Farm Bot 2.1
 
 The main purpose of the program is to quickly make Jobs directly in the game.
