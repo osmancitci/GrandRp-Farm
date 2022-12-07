@@ -1,3 +1,8 @@
+# Çoklu Dil
+[![tr](https://img.shields.io/badge/Dil-Türkçe-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
+[![de](https://img.shields.io/badge/Dil-Almanca-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
+[![en](https://img.shields.io/badge/Dil-İngilizce-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
+
 # GrandRP Otomatik Farm Botu 2.1
 
 Programın temel amacı, işleri doğrudan oyun içinde hızlı bir şekilde yapmaktır.
