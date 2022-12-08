@@ -4,9 +4,11 @@
 [![en](https://img.shields.io/badge/Sprache-Englisch-yellow.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.md)
 
 
-# GrandRP Auto Farm Bot 2.2
+# GrandRP Auto Farm Bot 2.3
 
 Der Hauptzweck des Programms besteht darin, schnell Jobs direkt im Spiel zu erstellen.
+
+Plus-Mitgliedschaften gelten für 30 Tage.
 
 ## Merkmale
 
