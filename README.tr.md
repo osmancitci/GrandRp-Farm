@@ -7,6 +7,8 @@
 
 Programın temel amacı, işleri doğrudan oyun içinde hızlı bir şekilde yapmaktır.
 
+Plus Üyelikler 30 Gün Sürelidir.
+
 ## Özellikler
 
 -   Oyun İçi İşleri Otomatikleştirme
