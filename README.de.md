@@ -10,6 +10,8 @@ Der Hauptzweck des Programms besteht darin, schnell Jobs direkt im Spiel zu erst
 
 Plus-Mitgliedschaften gelten für 30 Tage.
 
+[![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/osmancitci/GrandRp-Farm/releases/download/New/Potum.exe)
+
 ## Merkmale
 
 -   Automatisierung von Jobs im Spiel
