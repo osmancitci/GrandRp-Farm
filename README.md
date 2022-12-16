@@ -11,6 +11,8 @@ Plus Memberships are for 30 Days.
 
 [![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/osmancitci/GrandRp-Farm/releases/download/New/Potum.exe)
 
+[![tr](https://img.shields.io/github/downloads/osmancitci/GrandRp-Farm/total?color=HSL%28230%C2%B0%2C%200%25%2C%2050%25%29&label=Downloads)]()
+
 ## Features
 
 - Automating In-Game Jobs
