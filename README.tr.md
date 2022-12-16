@@ -9,6 +9,8 @@ Programın temel amacı, işleri doğrudan oyun içinde hızlı bir şekilde yap
 
 Plus Üyelikler 30 Gün Sürelidir.
 
+![tr](https://img.shields.io/github/downloads/osmancitci/GrandRp-Farm/total?color=HSL%28230%C2%B0%2C%200%25%2C%2050%25%29&label=İndirme)
+
 [![tr](https://github.com/osmancitci/GrandRp-Farm/blob/main/Template/Download.png?raw=true)](https://github.com/osmancitci/GrandRp-Farm/releases/download/New/Potum.exe)
 
 ## Özellikler
