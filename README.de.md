@@ -1,3 +1,4 @@
+# Der Bauernhof funktioniert nicht. Warten Sie, bis die neue Version eintrifft.
 # Mehrsprachig
 [![tr](https://img.shields.io/badge/Sprache-Türkisch-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
 [![de](https://img.shields.io/badge/Sprache-Deutsch-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
