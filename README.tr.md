@@ -1,3 +1,4 @@
+# Farm Çalışmamaktadır. Yeni Versiyon Gelene Kadar Bekleyiniz.
 # Çoklu Dil
 [![tr](https://img.shields.io/badge/Dil-Türkçe-red.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.tr.md)
 [![de](https://img.shields.io/badge/Dil-Almanca-green.svg)](https://github.com/osmancitci/GrandRp-Farm/blob/main/README.de.md)
